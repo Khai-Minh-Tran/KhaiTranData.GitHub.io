@@ -1,11 +1,11 @@
-title: Avery Smith # your name (or website title) here
+title: Khai Tran # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I love data.
+  Psst! I love data analytics and I'm a proud data nerd.
   <br><br>
-  Sports. Dog dad. Teching analytics. 
+  Oh, and I'm also obsessed with Salesforce. 
   <br><br>
-  <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/khai-tran-3a5076226/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
